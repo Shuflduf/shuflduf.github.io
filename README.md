@@ -1,3 +1,3 @@
-# shuflduf.github.io
+# shuflduf.xyz
 
 I'll update this later
