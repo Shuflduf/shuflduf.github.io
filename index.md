@@ -1,5 +1,6 @@
 ---
 title: Shuflduf.xyz
+layout: page
 ---
 # Shuflduf's Page
 
