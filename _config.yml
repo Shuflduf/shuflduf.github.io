@@ -52,7 +52,7 @@ jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @repl
 twitter:
   username: Shuflduf # jekyll-seo-tag > Owners twitter username
 author: Shuflduf # jekyll-seo-tag > default author
-social: @Shuflduf # jekyll-seo-tag > social overrides
+social: Shuflduf # jekyll-seo-tag > social overrides
   name: Shuflduf Duflshuf # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/Shuflduf
