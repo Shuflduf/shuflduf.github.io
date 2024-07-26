@@ -1,6 +1,8 @@
 title: Shuflduf.xyz
 description: The home page of Shuflduf
 author: Shuflduf
+url: shuflduf.xyz
+email: shuflduf@gmail.com
 
 plugins:
   - jekyll-remote-theme
