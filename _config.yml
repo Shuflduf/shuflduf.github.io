@@ -22,7 +22,6 @@
 
 # 1. Files excluded from Jekyll builds
 exclude:
-- README.md
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - screenshot.png
@@ -67,7 +66,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: UTC/GMT # Timezone for blog posts and alike
+timezone: Mountain Time (US & Canada) # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
