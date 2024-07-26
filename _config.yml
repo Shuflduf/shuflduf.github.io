@@ -22,28 +22,28 @@
 
 # 1. Files excluded from Jekyll builds
 exclude:
-  - README.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - screenshot.png
-  - LICENSE
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - alembic-jekyll-theme.gemspec
-  - .jekyll-cache
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
 
 # 2. Installed Gems
 plugins:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-commonmark
-  - jekyll-include-cache
-  - jemoji
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -52,7 +52,7 @@ jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @repl
 twitter:
   username: Shuflduf # jekyll-seo-tag > Owners twitter username
 author: Shuflduf # jekyll-seo-tag > default author
-social: Shuflduf # jekyll-seo-tag > social overrides
+social: # jekyll-seo-tag > social overrides
   name: Shuflduf Duflshuf # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/Shuflduf
