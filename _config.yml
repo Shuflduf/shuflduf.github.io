@@ -132,16 +132,10 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
+- title: Projects
+  url: /projects/
 - title: Shuflduf.xyz
-  url: https://github.com/shuflduf/shuflduf.github.io
+  url: https://github.com/shuflduf/shuflduf
 
 navigation_footer:
 - title: Created by Shuflduf
