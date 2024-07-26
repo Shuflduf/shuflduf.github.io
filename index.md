@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Shuflduf.xyz
 ---
 # Shuflduf's Page
