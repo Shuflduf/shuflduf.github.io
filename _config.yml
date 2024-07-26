@@ -135,7 +135,7 @@ navigation_header:
 - title: Projects
   url: /projects/
 - title: Shuflduf.xyz
-  url: https://github.com/shuflduf/shuflduf
+  url: https://github.com/shuflduf
 
 navigation_footer:
 - title: Created by Shuflduf
