@@ -1,6 +1,6 @@
 ---
 title: Shuflduf.xyz
-layout: page
+layout: post
 ---
 # Shuflduf's Page
 
