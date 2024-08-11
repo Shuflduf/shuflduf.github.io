@@ -1,8 +1,7 @@
 ---
 layout: page
+title: shuflduf.xyz
 ---
-
-# shuflduf.xyz
 
 I'll update this later
 index.md
